@@ -24,6 +24,7 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![pgAdmin4](https://img.shields.io/badge/pgAdmin4-808000)
 ![Postman](https://img.shields.io/badge/Postman-FFFF00)
 ![GoLand](https://img.shields.io/badge/GoLand-800085)
+![CLion](https://img.shields.io/badge/CLion-834585)
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-FF00FF) 
 ![Power_shell](https://img.shields.io/badge/PowerShell-FF5555) 
 
