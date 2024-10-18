@@ -30,3 +30,9 @@ It is better to write less code and simpler than more code and more complex. :wh
 ## Opportunity to contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)]([https](https://t.me/BackendDeveloperGolang))
+
+---
+
+## Statistics
+
+[![Statistics](https://github-readme-stats.vercel.app/api?username=CombiningIdeas&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
