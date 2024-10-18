@@ -1,5 +1,7 @@
 ![Avatar](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/Avatar%232.png)
 
+![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
+
 # Hi :wave:, I'm a beginner backend developer in Golang.
 
 
@@ -35,4 +37,7 @@ It is better to write less code and simpler than more code and more complex. :wh
 
 ## Statistics
 
-[![Statistics](https://github-readme-stats.vercel.app/api?username=CombiningIdeas&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistics](https://github-readme-stats.vercel.app/api?username=CombiningIdeas&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CombiningIdeas&layout=donut&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
