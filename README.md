@@ -1,6 +1,6 @@
 ![Avatar](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/Avatar%232.png)
 
-# Hi :wave:, I'm a beginner backend programmer in Golang.
+# Hi :wave:, I'm a beginner backend developer in Golang.
 
 
 If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.
