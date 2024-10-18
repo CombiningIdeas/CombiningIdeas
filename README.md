@@ -1,11 +1,12 @@
 ![Avatar](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/Avatar%232.png)
 
-# I'm a beginner backend programmer in Golang.
+# Hi :wave:, I'm a beginner backend programmer in Golang.
 
 
 If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.
 It is better to write less code and simpler than more code and more complex. :white_check_mark:
 
+---
 
 ## Languages and Tools
 ![Golang](https://img.shields.io/badge/Golang-00CED1?style=for-the-badge&logo=go&logoColor=00008B)
@@ -23,3 +24,9 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![GoLand](https://img.shields.io/badge/GoLand-800085)
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-FF00FF) 
 ![Power_shell](https://img.shields.io/badge/PowerShell-FF5555) 
+
+---
+
+## Opportunity to contact me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)]([https](https://t.me/BackendDeveloperGolang))
