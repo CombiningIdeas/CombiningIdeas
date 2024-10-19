@@ -28,6 +28,13 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-FF00FF) 
 ![Power_shell](https://img.shields.io/badge/PowerShell-FF5555) 
 
+### Additional hard skills:
+
+![Blender 3D](https://img.shields.io/badge/Blender_3D-F95305) 
+![LaTeX](https://img.shields.io/badge/LaTeX-50F115) 
+![Ureal Ungine 5](https://img.shields.io/badge/Ureal_Ungine_5-50F0F5) 
+![Blueprints](https://img.shields.io/badge/Blueprints-231AB5)
+
 ---
 
 ## Opportunity to contact me:
