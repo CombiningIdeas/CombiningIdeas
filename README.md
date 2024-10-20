@@ -2,7 +2,7 @@
 
 ![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
 
-# Hi :wave:, I'm a beginner backend developer in Golang.
+# Hi :wave:, I'm a beginner backend developer in Golang. ![](https://komarev.com/ghpvc/?username=CombiningIdeas&color=brightgreen&styles=plastic&base=1000)
 
 
 If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.
