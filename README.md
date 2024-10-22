@@ -5,7 +5,6 @@
 # Hi :wave:, I'm a beginner backend developer in Go. ![github profile views](https://komarev.com/ghpvc/?username=CombiningIdeas&color=brightgreen&styles=plastic&base=1000) ![All stars on account](https://img.shields.io/github/stars/CombiningIdeas?style=plastic)
 
 
-
 If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.
 It is better to write less code and simpler than more code and more complex. :white_check_mark:
 
@@ -49,5 +48,3 @@ It is better to write less code and simpler than more code and more complex. :wh
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=CombiningIdeas&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CombiningIdeas&count_private=true&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
