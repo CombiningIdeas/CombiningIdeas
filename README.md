@@ -20,11 +20,11 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![GitHub](https://img.shields.io/badge/github-0000FF)
 ![Fork](https://img.shields.io/badge/fork-00FFFF)
 ![SQL](https://img.shields.io/badge/SQL-00FF05)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-008010)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-998910)
 ![pgAdmin4](https://img.shields.io/badge/pgAdmin4-808000)
 ![Postman](https://img.shields.io/badge/Postman-FFFF00)
 ![GoLand](https://img.shields.io/badge/GoLand-800085)
-![CLion](https://img.shields.io/badge/CLion-834585)
+![CLion](https://img.shields.io/badge/CLion-B0C0F5)
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-FF00FF) 
 ![Power_shell](https://img.shields.io/badge/Markdown-FF5555)
 
