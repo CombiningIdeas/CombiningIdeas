@@ -40,7 +40,7 @@ It is better to write less code and simpler than more code and more complex. :wh
 
 ## Opportunity to contact me:
 
-[![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)]([https](https://t.me/BackendDeveloperGolang))
+[![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)](https://t.me/BackendDeveloperGolang)
 
 ---
 
