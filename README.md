@@ -1,4 +1,7 @@
-![Avatar](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/Avatar%232.png)
+<video src="https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/video_2025.svg" width="650" height="300" autoplay loop muted>
+  Your browser does not support the element <code>video</code>.
+</video>
+
 
 ![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
 
