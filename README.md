@@ -13,8 +13,7 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=FF0000)
 ![C](https://img.shields.io/badge/C-DCDCDC?style=for-the-badge&logo=C&logoColor=696969)
 ![Python](https://img.shields.io/badge/Python-87CEE0?style=for-the-badge&logo=python&logoColor=FFFF00)
-![html](https://img.shields.io/badge/html-DC391C?style=for-the-badge&logo=html&logoColor=AA008B)
-![css](https://img.shields.io/badge/css-C70585?style=for-the-badge&logo=css&logoColor=0F458B)
+
 
 ![Git](https://img.shields.io/badge/git-000080)
 ![GitHub](https://img.shields.io/badge/github-0000FF)
@@ -27,6 +26,8 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![CLion](https://img.shields.io/badge/CLion-B0C0F5)
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-FF00FF) 
 ![Power_shell](https://img.shields.io/badge/Markdown-FF5555)
+![html](https://img.shields.io/badge/html-AA008B)
+![css](https://img.shields.io/badge/css-0F458B)
 
 ### Additional hard skills:
 
