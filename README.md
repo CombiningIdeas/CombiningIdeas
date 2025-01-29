@@ -12,7 +12,9 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![Golang](https://img.shields.io/badge/Golang-00CED1?style=for-the-badge&logo=go&logoColor=00008B)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=FF0000)
 ![C](https://img.shields.io/badge/C-DCDCDC?style=for-the-badge&logo=C&logoColor=696969)
-![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=FFFF00)
+![Python](https://img.shields.io/badge/Python-87CEE0?style=for-the-badge&logo=python&logoColor=FFFF00)
+![html](https://img.shields.io/badge/html-DC391C?style=for-the-badge&logo=html&logoColor=AA008B)
+![css](https://img.shields.io/badge/css-C70585?style=for-the-badge&logo=css&logoColor=0F458B)
 
 ![Git](https://img.shields.io/badge/git-000080)
 ![GitHub](https://img.shields.io/badge/github-0000FF)
@@ -28,7 +30,7 @@ It is better to write less code and simpler than more code and more complex. :wh
 
 ### Additional hard skills:
 
-![Blender 3D](https://img.shields.io/badge/Blender_3D-F95305) 
+![Blender 3D](https://img.shields.io/badge/Blender_3D-FCA305) 
 ![LaTeX](https://img.shields.io/badge/LaTeX-50F115) 
 ![Ureal Ungine 5](https://img.shields.io/badge/Ureal_Ungine_5-50F0F5) 
 ![Blueprints](https://img.shields.io/badge/Blueprints-231AB5)
